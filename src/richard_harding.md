@@ -18,7 +18,7 @@ Mrs. Skelton, the wife of the man that turned King's evidence against Hardy for 
 ```
 
 ```{admonition} *Suicide*, August, 1805
-::class: dropdown
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002408/18050820/011/0003
 Morning Herald (London) - Tuesday 20 August 1805
 
