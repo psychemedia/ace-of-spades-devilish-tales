@@ -1131,6 +1131,7 @@ Mr. Baron THOMPSON charged the Jury, who returned a verdict of *Guilty*, but rec
 ```
 
 ```{admonition} *An arrest of judgment*, May, 1805
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000361/18050506/008/0003
 Salisbury and Winchester Journal - Monday 06 May 1805
 
@@ -1174,6 +1175,7 @@ Blacklin it seems, got off lightly. I found no record of his execution, and we m
 As well as the fraudsters, it seems that the smaller fry of people reselling forged cards may also have been getting caught up by the policing operations elsewhere:
 
 ```{admonition} *Turning King's Evidence*, June, 1805
+:class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000073/18050608/010/0004
 Oxford Journal - Saturday 08 June 1805
 
