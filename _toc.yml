@@ -1,0 +1,16 @@
+format: jb-book
+root: preface
+parts:
+- caption: The Ace of Spades
+  chapters:
+  - the_death_card
+  - tragic_affair_southsea
+  - history_stamp_duty_cards
+  - reaffirming_the_law
+  - john_blacklin
+  - richard_harding
+  - old_frizzle
+  - henry_wheeler
+- caption: The Devil's Prayer Book
+  chapters:
+  - devil_prayer_book
