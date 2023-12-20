@@ -26,7 +26,7 @@ With a large number of offences attracting a mandatory death sentence, the *Judg
 However, when the law regarding playing cards and dice was consolidated in 1828, the capital sentence was still there as the default option for forging the Ace of Spades ([pp41-42](https://archive.org/details/statutesunitedk07britgoog/page/n68/mode/1up)).
 
 ```{admonition} *Shall suffer death...*, An Act to Consolidate Acts relating to Cards and Dice, 9 Geo. IV 1828 ch. 18
-:class: seealso
+:class: seealso dropdown
 https://archive.org/details/statutesunitedk07britgoog/page/n67/mode/1up
 The statutes of the United Kingdom of Great Britain and Ireland [1807-1868/69]
 
@@ -45,7 +45,7 @@ An Act to repeal the Stamp Duties on Cards and Dice made in the United Kingdom, 
 ```
 
 ```{admonition} *Shall suffer death...*, An Act to Consolidate Acts relating to Cards and Dice, 9 Geo. IV 1828 ch. 18
-:class: seealso
+:class: seealso dropdown
 https://archive.org/details/statutesunitedk07britgoog/page/n51/mode/1up
 The statutes of the United Kingdom of Great Britain and Ireland [1807-1868/69]
 
