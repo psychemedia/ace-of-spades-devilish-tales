@@ -4,6 +4,8 @@ The Ace of Spades. Traditionally, in Britain at least, the highest scoring and m
 
 If you're a fan of the new wave of British heavy metal bands in the mid-70s and early eighties — I'm talking, decades, here, not average ages of the band members, though probably that too, actually, at least for the ones who aren't dead yet — that can only mean one thing: Lemmy, Motörhead, heavy metal umlauts, and one of the greatest songs by one of the greatest rock bands, ever.
 
+But the Ace of Spades has other connotations, too...
+
 ```{admonition} The Devil's (Picture) Book
 :class: seealso dropdown
 The *Devil's book*, also known as the *Devil's Picture book*, was a term used by the Puritans to describe packs of playing cards because of their association with gambling.
@@ -14,6 +16,6 @@ Ref: The Gentleman's magazine, [Vol. CCLXXXI](https://archive.org/details/gentle
 
 ```
 
-But the Ace of Spades is also known as the Death card.
+Not least insofar as being known as *the Death card*.
 
-And not just because that card is, arguably, one of the black aces in the dead man's hand of aces and eights that wild-west folk hero and gun-slinger, Wild Bill Hickok, was holding when he was shot in the back of the head in a saloon bar in 1876.
+And that's not just because that card is, arguably, one of the black aces in the dead man's hand of aces and eights that wild-west folk hero and gun-slinger, Wild Bill Hickok, was holding when he was shot in the back of the head in a saloon bar in 1876.
