@@ -14,9 +14,6 @@ Ref: The Gentleman's magazine, [Vol. CCLXXXI](https://archive.org/details/gentle
 
 ```
 
-```{youtube} 3mbvWn1EY6g
-```
-
 But the Ace of Spades is also known as the Death card.
 
 And not just because that card is, arguably, one of the black aces in the dead man's hand of aces and eights that wild-west folk hero and gun-slinger, Wild Bill Hickok, was holding when he was shot in the back of the head in a saloon bar in 1876.
