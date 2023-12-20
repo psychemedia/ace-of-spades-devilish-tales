@@ -1186,7 +1186,7 @@ On Saturday, .... The same day, *V. Rumley*, a Calico Glazier, and *——— Ir
 
 ```
 
-But there were also bigger fish to catch. Such as John Harding. And he would not to be as lucky as Blacklin.
+But there were also bigger fish to catch. Such as Richard Harding. And he would not to be as lucky as Blacklin.
 
 
 ```{admonition} *Capitally convicted*, September, 1805
