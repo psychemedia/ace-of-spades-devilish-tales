@@ -89,7 +89,7 @@ XXIV. And be it further enacted. That no playing Cards shall be sold as waste Ca
 
 ```
 
-With the 1828 act, the duty was redudced from 2s6d to 1s. Card makers were now obliged to provide paper to the Stamp Office on which would be printed the Ace of Spades, the only source for this particular card. Popularly referred to as "Old Frizzle", this Duty Ace had and intricate design, inspired by the complex "anti-fraud" design applied to bank notes.
+With the 1828 act, the duty was reduced from 2s6d to 1s. Card makers were now obliged to provide paper to the Stamp Office on which would be printed the Ace of Spades, the only source for this particular card. Popularly referred to as "Old Frizzle", this Duty Ace had and intricate design, inspired by the complex "anti-fraud" design applied to bank notes.
 
 Four years later, in 1832, the various crimes of forgery to which the capital sentence applied were combined into a single act.
 
