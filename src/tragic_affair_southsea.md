@@ -1,6 +1,6 @@
 # A Tragic Affair in Southsea
 
-Wild Bill Hickock may well have been holding the Ace of Spades as he played out his last hand of cards at Nuttal & Mann's Saloon in 1876, but for three friends in Southsea, in December, 1806? Well, they had a differnt game in mind, where the Ace was supposed to provide a shooting target:
+Wild Bill Hickock may well have been holding the Ace of Spades as he played out his last hand of cards at Nuttal & Mann's Saloon in 1876, but for three friends in Southsea, in December, 1806? Well, they had a different game in mind, where the Ace was supposed to provide a shooting target:
 
 ```{admonition} *A most melancholy circumstance*, December, 1806
 :class: dropdown
@@ -13,6 +13,6 @@ On Wednesday last a most melancholy circumstance occurred on Southsea Common. Mr
 
 A tragedy, for sure.
 
-*I am in part reminded of the death of Henry Card, in Lymington, I tale I picked up in the Ferryman pub in Lymongton, and which led to my storynote on the Ardlamont affair...*
+*I am in part reminded of the death of Henry Card, in Lymington, I tale I picked up in the Ferryman pub in Lymington, and which led to my storynote on the Ardlamont affair...*
 
 But the Ace of Spades' association with death goes back further still, to a time when the penalty for evading the payment of Duty on playing cards was a capital one.
