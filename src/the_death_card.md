@@ -1,4 +1,4 @@
-# The Ace of Spades
+# The Death Card
 
 The Ace of Spades. Traditionally, in Britain at least, the highest scoring and most ornate of the cards in the *Devil's Book*, which is to say, in a pack of playing cards.
 
