@@ -336,9 +336,11 @@ London Jury, before Mr. Recorder.
 
 ## The Trial of John Blacklin
 
-The court, it seems, had believed that the young men tried for selling the cards, and whose case had been heard *after* Blacklin's, had naively believed they were selling smuggled French cards.
+The court, it seems, had accepted that the young men tried for selling the cards, and whose case had been heard *after* Blacklin's, had naively believed they were selling smuggled French cards.
 
 So what had transpired in that previous case, as presented to the court the day before?
+
+The indictment was primarily for feloniously uttering playing cards with conterfeited stamp duty marks. The case opened with a Mr Thomas Boddington, in whose apartments many packs of playing cards, and separate aces, had been found by John Rivett. Boddington explained how he had bought 36 dozen packs of cards, stamped with the name of *Hart* but omitting a separate duty stamp, for a little over a shilling each, receiving the aces separately, sometimes delivered by a ten year-old boy named Matthew Foy. Boddington then resold the packs, still with separate aces, to others, including a Mr. Buggin and a Mr. Spyers, the latter having introduced him to Blacklin. Buggin in turn had sold some of the cards on to Isaac Maydwell. The low cost was allegedly a result of using coarse paper mixed with "the clippings or clickings of the best". Omn the same day, Rivett and John Read, an officer of the City, searched Blacklin's house, where more packs of cards were found, again lacking aces. Foy, and another lad, 14 year old Thomas Connelly, were both errand-boys in Blacklin's house and ran packages from Blacklin to Boddington. When Foy was questioned, he was asked if he knew hios catechism, asked if he knew what an oath was, asked if he knew where he would go after he died if he told a lie: "Yes, to hell". In terms of manufacture, Edward Wright and Joseph Reynolds were cardmakers who worked for a Mr Lee, who had absconded, who supplied cards to Blacklin. Cards were deliverd from Lee to Blacklin in packs with a simple white unstamped wrapper, not including aces, the aces being supplied separately. Wright had worked cards up with sheets of aces legally obtained from the Stamp Office at 20 to a sheet and the name of the card maker on them. But they produced other sheets for Lee, with only 10 aces per sheet, with the name of *Hart* on them, a card-maker who had stopped working 7 years previously. Seventy-two year old Nathaniel Merchant, an Inspector at the Stamp Office with four years standing, identified the aces marked as *Hart* were forged based on inconsistent plate numbers. Charles-Edward Berresfoprd, secretary to the Stamp-Office, had checked the order books to see if plate numbers corresponding the numbers on Blacklin's aces were assigned to Hart, but he had not checked the original warrants awarded to the original engraver. Blacklin's defence was that he believed the aces had been brought from abroad, and was then informed they had been purchased as waste paper by the Neckinger Mill Company from Somerset-House. Mr. Searjeant Best, for the defence, then asked for certain of the counts against Blacklin to be read out, then claiming they did not apply in the present case, because Blackling had not vended fradulently stamped cards and wrappers: his were unstamped. Mr Gleed then argued that the epithet *playing cards* refers to full packs of cards; but as Blacklin didn't sell full packs, he wasn't vending forged playing cards, just parcels of 51 cards. The prosecution denined the latter by saying the bargain had been struck for packs of cards, not separae purchases of parcels of 51 cards, and separatley packaged aces.
 
 ```{admonition} The Trial of John Blacklin, 24 April 1805
 :class: dropdown
@@ -810,9 +812,8 @@ Q. Were any of them put up in stamped wrappers? - A. No.
 
 Q. Not in the way the trade is legally carried on? - A. No.
 
-Q. Were any of the aces put in these quantities?
+Q. Were any of the aces put in these quantities?- A. There were none of them that had aces to them.
 
-- A. There were none of them that had aces to them.
 Q. The aces of spades were wanting - A. Yes.
 
 Q. The entire pack, all but the aces of spades? - A. Yes.
@@ -855,7 +856,7 @@ Mr. Garrow. Q. Lee, I believe, has absconded? - A. Yes.
 
 Q. Did the prisoner apply occasionally for cards that he had ordered? - A. Yes.
 
-Q.Did it sometimes happen that you could not execute his orders so early as he wished? - A. Yes, at times.
+Q. Did it sometimes happen that you could not execute his orders so early as he wished? - A. Yes, at times.
 
 Q. Was that occasioned by the want of cards generally or the want of duty aces? - A. Sometimes the demand was so large that we had not got the cards generally, and sometimes, when we had got the rest of the cards, the aces were wanting.
 
@@ -887,9 +888,8 @@ Q. And I suppose you have worked for many of them - Did you know Hart when he wa
 
 Q. Do you know how long ago it is since he left off? - A. I believe about seven years.
 
-Q. So that if he had been in the trade, it is probable
+Q. So that if he had been in the trade, it is probable you should have known it? - A. I certainly should.
 
-you should have known it? - A. I certainly should.
 Q. When the prisoner visited Lee's house occasionally, did he come where you passed? - A. We pasted backwards, he very seldom came there, he was sometimes there.
 
 Q. He came sometimes there, while you were actually pasting these plates, which are half the size of the legal plates? - A. I do not recollect seeing him there while we were in the act of doing it.
@@ -972,9 +972,8 @@ Mr. Fielding. Q. Look them all over, Mr. Merchant; are you enabled to say what t
 
 Mr. Solicitor General. Q. Genuine ones, in the name of Hart, never exceeded the number 80.
 
-Q. What are the other seven aces found at Boddington's? - A. They are all a forgery, and they
+Q. What are the other seven aces found at Boddington's? - A. They are all a forgery, and they are from the same plate, and the same numbers, from 112 to 116.
 
-are from the same plate, and the same numbers, from 112 to 116.
 Q. The paper 8, containing 59 aces of spades, what are they? - A. These are the same, and appear from the same impression, and contain the same number; the paper marked B contains six aces, they are forged; and the plate E is a forgery, containing fifty-four aces: they appear to be from the same plate.
 
 Q. The one that was in the pocket-book of the prisoner, the ace of spades which the officer took out of the pocket-book, which was in his pocket and on his person, look at that, and tell me whether that is a forgery; it is in the name of Hart? - A. It is the same, and marked 112, a higher number than Hart ever had.
@@ -993,7 +992,7 @@ Mr. Garrow. Q. I now shew him a genuine plate, a sheet containing twenty impress
 
 Q. From your inspection of the legal one of twenty, and the other of ten impressions on Lee's paper, do they appear to be done with imitation of the genuine plates issued by the Stamp-Office? - A. Yes.
 
-CHARLES- EDWARD BERRESFORD sworn. - Examined by Mr. Garrow. Q. You are Secretary to the Stamp-Office, you have been so sometime? - A. From the year 1801.
+CHARLES-EDWARD BERRESFORD sworn. - Examined by Mr. Garrow. Q. You are Secretary to the Stamp-Office, you have been so sometime? - A. From the year 1801.
 
 Q. Before that time you were Deputy Secretary? - A. Yes, and I was First Clerk for a great many years.
 
@@ -1036,6 +1035,7 @@ Mr. Serjeant Best. Q. You said you had not got the warrants of the Commissioners
 Mr. Garrow. Q. Would not those warrants have enabled you to make a better search; what do you mean by not having the warrants? - A. I have only examined the entry of the order-book.
 
 Q. The entry in the order-book is a transcript of the warrants? - A. Yes.
+
 Mr. Serjeant Best. Q. What book have you examined? - A. Only the order-book.
 
 Q. Will you take upon you to swear that there are no higher numbers? - A. To the best of my belief there are no higher numbers than 80.
@@ -1054,7 +1054,7 @@ JAMES CHETHAM sworn. - Examined by Mr. Garrow. Q. Where did you find that accoun
 
 Q. This is Boddington's account, called waste paper; this you found at the prisoner's house? - A. I did. After his books were brought to Bow-street I examined them in the presence of the Magistrate, and in the presence of the defendant.
 
-Court. Q. Whose book is this? - A.(Mr. Garrow.) The prisoner's, which Rivett has spoken of.
+Court. Q. Whose book is this? - A. (Mr. Garrow.) The prisoner's, which Rivett has spoken of.
 
 Mr. Chetham. I found this accompt in the green book, in the ledger.
 
@@ -1124,7 +1124,7 @@ OLD BAILEY. Monday.
 
 *John Blacklin*  was indicted for feloniouly uttering and vending certain cards, with a forged or counterfeit stamp.—It was proved that the prisoner purchased considerable quantities of cards from a person named Lee, a Card-maker in Fetter-lane, - and resold them. The cards were made up in packs, without the Ace of Spades, on which the stamp is placed, that card being always delivered separately. The forged stamp had the name Hart on it, and it appeared from the evidence, that no stamps had been issued from the Stamp-Office to that maker, bearing numbers higher than 80; whereas the numbers on the counterfeit stamps found in the possession of the prisoner, or sold by him, were 112, 113, 114; 115, and 116.
 
-Mr. Sergeant Best stated an objection, founded on the Act of the 9th of Queen Ann, which requires the duties to be expressed on the wrapper; and contended that the subsequent Acts which mentioned the Ace of Spades, were only intended to distinguish between cards for exportation and those for home consumption.— Mr. CONST and Mr. GLEAD followed on the same side. The latter Gentleman maintained, that as there were only 51 cards in each pack, the article charged by the indctment to be forged was imperfect, and therefore did not come within the meaning of the Act.— These objections were replied to by the SOLICITOR-GENERAL and Mr. GARROW, and , finally, over ruled by the Court.
+Mr. Sergeant Best stated an objection, founded on the Act of the 9th of Queen Ann, which requires the duties to be expressed on the wrapper; and contended that the subsequent Acts which mentioned the Ace of Spades, were only intended to distinguish between cards for exportation and those for home consumption.— Mr. CONST and Mr. GLEAD followed on the same side. The latter Gentleman maintained, that as there were only 51 cards in each pack, the article charged by the indictment to be forged was imperfect, and therefore did not come within the meaning of the Act.— These objections were replied to by the SOLICITOR-GENERAL and Mr. GARROW, and , finally, over ruled by the Court.
 
 Mr. Baron THOMPSON charged the Jury, who returned a verdict of *Guilty*, but recommended him to mercy, on account of his previous good character.
 
@@ -1163,15 +1163,15 @@ The judges rose at an early hour, and proceeded to the Exchequer-chamber, to hea
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001254/18050520/014/0003
 Public Ledger and Daily Advertiser - Monday 20 May 1805
 
-COURT OF EXCHEQUER. SATURDAY, May 18. Three persons were brought up for judgment under several convictions at country Assizes, for obstructing and assaulting the Revenue Officers in the execution of their duty, and were sentenccd, on motion of the Solicitor-General, to several periods of imprisonmet.
+COURT OF EXCHEQUER. SATURDAY, May 18. Three persons were brought up for judgment under several convictions at country Assizes, for obstructing and assaulting the Revenue Officers in the execution of their duty, and were sentenced, on motion of the Solicitor-General, to several periods of imprisonmet.
 
 At eleven o’clock, the Judges retired into the Inner Chamber, where they heard Mr. Sergeant Best and Mr. Glead in behalf of the arrest of judgment in the case of Blacklin, convicted for forging the Ace of Spades.
 
 ```
 
-Blacklin it seems, got off lightly. I found no record of his execution, and we might assume he received a lesser sentence.
+Blacklin it seems, got off lightly. I found no record of his execution, and we might assume he received a lesser sentence on account of his previous good character, or had the verdict quashed based on the appeals of Best and Gleed.
 
-As well as the fraudsters, it seems that the smaller fry may also have been getting caught up by the policing operation, if the names recorded below are accurate (as yet, I haven't found them appear anywhere else). Or is this a garbled account, with the names and professions incorrectly recorded?
+As well as the fraudsters, it seems that the smaller fry of people reselling forged cards may also have been getting caught up by the policing operations elsewhere:
 
 ```{admonition} *Turning King's Evidence*, June, 1805
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000073/18050608/010/0004
