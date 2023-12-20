@@ -4,7 +4,7 @@ This storynotes collection began with what was supposed to be a simple storynote
 
 Whatever the trigger, it led from an initial set of two or three links regarding the last man hanged for forging the Ace of Spades, to a slightly more comprehensive collection of resources around that theme.
 
-And then, to provide additional context, I started looking for some tales relating to playing cards in a Devilish context.
+And then, to provide additional context, I started looking for some tales relating to playing cards in a Devilish context (which I haven't added to the collection yet...)
 
 I hope this collection is one that continues to grow. I *love* devil stories, and a set of tales pivoting around a pack of playing cards as a frame tale device really appeals to me...
 
