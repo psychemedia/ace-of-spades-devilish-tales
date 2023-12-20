@@ -1,0 +1,506 @@
+
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+    <title>Old Frizzle &#8212; My Jupyter Book</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=5b4479735964841361fd" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=5b4479735964841361fd" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=5b4479735964841361fd" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=5b4479735964841361fd" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=5b4479735964841361fd" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=5b4479735964841361fd" />
+  <script src="_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=5b4479735964841361fd"></script>
+
+    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/clipboard.min.js"></script>
+    <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="_static/sphinx-thebe.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'old_frizzle';</script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="The Case of Henry Wheeler" href="henry_wheeler.html" />
+    <link rel="prev" title="The Case of Richard Harding" href="richard_harding.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>
+    Back to top
+  </button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
+    </nav>
+  
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+
+<a class="navbar-brand logo" href="preface.html">
+  
+  
+  
+  
+  
+  
+    <p class="title logo__title">My Jupyter Book</p>
+  
+</a></div>
+        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="preface.html">
+                    Preface
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">The Ace of Spades</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="the_death_card.html">The Ace of Spades</a></li>
+<li class="toctree-l1"><a class="reference internal" href="tragic_affair_southsea.html">A Tragic Affair in Southsea</a></li>
+<li class="toctree-l1"><a class="reference internal" href="history_stamp_duty_cards.html">A History of Stamp Duty on Playing Cards</a></li>
+<li class="toctree-l1"><a class="reference internal" href="reaffirming_the_law.html">Reaffirming the Law with Regard to Stamp Duty, 1804</a></li>
+<li class="toctree-l1"><a class="reference internal" href="john_blacklin.html">The Case of John Blacklin</a></li>
+<li class="toctree-l1"><a class="reference internal" href="richard_harding.html">The Case of Richard Harding</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Old Frizzle</a></li>
+<li class="toctree-l1"><a class="reference internal" href="henry_wheeler.html">The Case of Henry Wheeler</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/old_frizzle.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Old Frizzle</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article" role="main">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="old-frizzle">
+<h1>Old Frizzle<a class="headerlink" href="#old-frizzle" title="Permalink to this heading">#</a></h1>
+<p>With the number of capital crimes increasing, there came a point when Parliament started to think again about the effectiveness of such penalties. For example, in the matter of forgery, MPs were to debated the <em>Forgery Punishment Mitigation Bill</em> in late May and early June, 1821, although no mention is made in the debates regarding playing cards or the forging of the ace of spades. The bill was lost in division, where the Ayes were 115, and the Noes, 121.</p>
+<div class="seealso dropdown admonition">
+<p class="admonition-title">Forgery Punishment Mitigation Bill, 1821</p>
+<p><a class="reference external" href="https://api.parliament.uk/historic-hansard/commons/1821/may/23/forgery-punishment-mitigation-bill">https://api.parliament.uk/historic-hansard/commons/1821/may/23/forgery-punishment-mitigation-bill</a>
+FORGERY PUNISHMENT MITIGATION BILL.
+HC Deb 23 May 1821 vol 5 cc893-971893</p>
+<p><a class="reference external" href="https://api.parliament.uk/historic-hansard/commons/1821/may/25/forgery-punishment-mitigation-bill">https://api.parliament.uk/historic-hansard/commons/1821/may/25/forgery-punishment-mitigation-bill</a>
+FORGERY PUNISHMENT MITIGATION BILL.
+HC Deb 25 May 1821 vol 5 cc999-1001</p>
+<p><a class="reference external" href="https://api.parliament.uk/historic-hansard/commons/1821/jun/04/forgery-punishment-mitigation-bill">https://api.parliament.uk/historic-hansard/commons/1821/jun/04/forgery-punishment-mitigation-bill</a>
+FORGERY PUNISHMENT MITIGATION BILL.
+HC Deb 04 June 1821 vol 5 cc1099-1141099</p>
+</div>
+<p>With a large number of offences attracting a mandatory death sentence, the <em>Judgement of Death Act</em>, 1823, allowed judges to commute the death penalty to a lesser sentence, except in cases of treason and murder.</p>
+<p>However, when the law regarding playing cards and dice was consolidated in 1828, the capital sentence was still there as the default option for forging the Ace of Spades (<a class="reference external" href="https://archive.org/details/statutesunitedk07britgoog/page/n68/mode/1up">pp41-42</a>).</p>
+<div class="seealso admonition">
+<p class="admonition-title"><em>Shall suffer death…</em>, An Act to Consolidate Acts relating to Cards and Dice, 9 Geo. IV 1828 ch. 18</p>
+<p><a class="reference external" href="https://archive.org/details/statutesunitedk07britgoog/page/n67/mode/1up">https://archive.org/details/statutesunitedk07britgoog/page/n67/mode/1up</a>
+The statutes of the United Kingdom of Great Britain and Ireland [1807-1868/69]</p>
+<p>9 Geo. IV 1828 ch. 18</p>
+<p>pp41-42</p>
+<p>CAP XVIII</p>
+<p>An Act to repeal the Stamp Duties on Cards and Dice made in the United Kingdom, and to grant other Duties in lieu thereof; and to amend and consolidate the Acts relating to such Cards and Dice, and the Exportation thereof.</p>
+<p>[9th May 1828.]</p>
+<blockquote>
+<div><p>XXXV. And be it further enacted, That if any Person shall forge or counterfeit, or shall cause or procure to be forged or counterfeited, any Type, Die, Seal, Stamp, Mark, Plate, or Device, or any Part of any Type, Die, Seal, Stamp, Mark, Plate, or Device, which shall be at any Time provided, made, or used by or under the Authority of the Commissioners of Stamps in pursuance of this Act; or shall counterfeit, or shall cause or procure to be counterfeited or resembled, the Impression of any such Type, Die, Seal, Stamp, Mark, Plate, or Device, or any Part thereof, upon any playing Card or Dice, or upon any Label, Thread, or Paper ; or shall forge or counterfeit the Name, Handwriting, or Signature of any sealing Officer, or other Officer of Stamps, to or upon any Wrapper, Paper, or Material in which any Dice shall be actually enclosed ; or shall forge or counterfeit, or shall cause or procure to be forged or counterfeited, any Mark or Name, or any Part of any Mark or Name, directed to be used by the Commissioners of Stamps in pursuance of this Act, in order to distinguish the Maker of any such Cards or Dice respectively, and printed or marked on or affixed to or making Part of the Wrapper, Label, or Paper in which any playing Cards or Dice shall be actually enclosed, with Intent to defraud His Majesty, Hia Heirs or Successors, of any of the Duties at any Time by Law pavable upon Cards or Dice ; or shall utter, or sell or expose to Sale, or part with for Use in Play, any Card, Die, Ace of Spades, Label, Wrapper, or Jew whatsoever, with such counterfeit Seal, Stamp, Mark, Device, Impression, Name, or Signature, knowing the same to be counterfeit ; or shall privately or fraudulently use anv Seal, Stamp, Mark, Plate, Device, or Label at any Time provided, made, or used by or under the Authority of the Commissioners of Stamps in pursuance of this Act, with Intent to defraud His Majesty, His Heirs and Successors, of any of the Duties at any Time by Law payable upon Cards or Dice; <strong>every Person convicted of any such Offence in due Form of Law shall be adjudged a Felon, and shall suffer Death.</strong></p>
+</div></blockquote>
+</div>
+<div class="seealso admonition">
+<p class="admonition-title"><em>Shall suffer death…</em>, An Act to Consolidate Acts relating to Cards and Dice, 9 Geo. IV 1828 ch. 18</p>
+<p><a class="reference external" href="https://archive.org/details/statutesunitedk07britgoog/page/n51/mode/1up">https://archive.org/details/statutesunitedk07britgoog/page/n51/mode/1up</a>
+The statutes of the United Kingdom of Great Britain and Ireland [1807-1868/69]</p>
+<p>9 Geo. IV 1828 ch. 18</p>
+<p>pp25-43</p>
+<p>…</p>
+<p>II. And be it further enacted. That from and after the Commencement of this Act there shall be granted, raised, levied, collected, and paid, in the United Kingdom of Great Britain and Irdandy unto His Majesty, His Heirs and Successors, the several Duties following ; that is to say.</p>
+<p>For and upon every Licence to be taken out annually by every Maker of playing Cards or Dice in the United Kingdom, the Sum of Five Shillings :</p>
+<p>And for and in respect of every Pack of playing Cards which shall be made fit for Sale or Use in the United Kingdom the Sum of One Shilling :</p>
+<p>And for and in respect of every Pair of Dice which shall be made fit for Sale or Use in the United Kingdom, the Sum of Twenty Shillings.</p>
+<p>III. And be it further enacted, That the said Duties shall be under the Care and Management of the Commissioners of Stamps for the United Kingdom for the Time being; and it shall be lawful for the said Commissioners, and they are hereby required and empowered, to provide proper Stamps, Dies, Marks, or Plates, with such Devices as they shall think proper, as well for denoting or expressing the several Duties hereby granted, as for marking and distinguishing Cards made for Use in the Isle of Man, or for Exportation respectively ; and from time to time to alter, renew, or add to such Stamps, Dies, Marks, or Plates, as they shall think proper ; and also to appoint or employ such Officers and Persons under them, and to do all such other Acts and Things as shall be deemed necessary or expedient for putting this Act into execution, and for fully and effectually collecting the Duties hereby granted, in the like and in as full and ample Manner as they or any former Commissioners are or have been authorized to do for the raising and collecting of any former Stamp Duties, or for putting into execution any Act relating thereto.</p>
+<p>IV. And be it further enacted, the Duty by this Act imposed on playing Cards shall be denoted or marked on the Ace of Spades of each Pack of Cards.</p>
+<p>…</p>
+<p>V. And be it further enacted, That from and after the Commencement of this Act every Person who shall intend to make, or who shall engage or be concerned in the Trade or Employment of making, any playing Cards or Dice, whether for Use in the United Kingdom, or for Exportation, or otherwise, shall, before making or beginning to make, or being concerned or engaged in the Trade or Employment of making, any playing Cards or Dice, apply in Writing to the Commissioners of Stamps for a Licence to make such Cards or Dice, specifying in such Application, to the Satisfaction of the said Commissioners, every House, Building, Room, or Place where such Cards or Dice are intended to be made. …</p>
+<p>VII. And be it further enacted, That no Licence shall be granted to any Person making playing Cards or Dice, nor shall Dice to be any Person set up or exercise the Trade or Employment of making playing Cards or Dice, nor make or cause to be made any playing Cards or Dice, in any Part of Great Britain except in the Cities of London and Westminster, or in the Borough of Southwark, … and that every Person who shall set up or exercise the Trade or Employment of making, or shall make or cause to be made, any playing Cards or Dice in any other City, Town, or Place in the United Kingdom of Great Britain and Ireland than as aforesaid respectively, shall for every such Offence forfeit the Sum of One hundred Pounds, and for every Day during which such Trade or Employment ahaJl be continued or carried on after the first Day thereof a further Sum of Twenty Pounds.</p>
+<p>VIII. And be it further enacted, That every Maker of playing Cards in the United Kingdom shall send to the Commissioners of Stamps, or to their proper Officer, a sufficient Quantity of Paper, in order to have so many Aces of Spades marked or impressed thereon as such Maker shall desire ; and no Pack of playing Cards made fit for Sale or Use in any Part of the United Kingdom, …, shall be sold, or used in play, or shall be exported, without One of such Aces of Spades marked or impressed as is by this Act directed ; …</p>
+<p>IX. And be it further enacted, That every Maker of playing Cards shall from time to time send to the said Commissioners of Stamps, or their Officer, Duplicate Forms or Patterns of the Wrappers ( commonly called Jews) which such Maker may be desirous to use for enclosing the Packs of playing Cards intended to be made by him, with his Name and such other particular Word or Thing printed thereon as the said Commissioners shall direct and approve, …</p>
+<p>X. And be it further enacted. That every licensed Maker of playing Cards shall, on the Completion of each and every Pack of Cards made by him fit for Sale or Use in the United Kingdom, enclose the same in a Wrapper or Jew, the Device of which shall have been approved of by the said Commissioners of Stamps in the Manner directed by this Act, and shall fasten or tie such Wrapper with Thread, and give Notice thereof to the said Commissioners; and the said Commissioners shall thereupon direct their Officer to attend at the House or Place where such Cards shall have been made ; and such Officer shall affix to each Pack of Cards, enclosed and fastened as aforesaid, a Label, in such Manner, and with such Mark or Device thereon, as the said Commissioners shall direct.</p>
+<p>XI. And be it further enacted. That no playing Cards mode or begun to be made, or in any Stage of making, shall be removed from the House or Place where the same shall have been so made or begun to be made or wrought, without the Consent in Writing of the Commissioners of Stamps, … until such Cards shall have been completed in Packs, and fastened or tied in Wrappers, and the Labels Affixed, and the Duties paid or secured in the Manner directed by this Act  …</p>
+<p>XX. And be it further enacted. That no Pack, Parcel, or Quantity of playing Cards, … shall contain more than fifty-two playing Cards, and that every Pack shall consist of the Four usual Suits, and shall include one Ace of Spades duly stamped, and shall be tied up together in a Pack, in the Manner directed by this Act ; …</p>
+<p>XXIII. And be it further enacted. That in case any Ace of Spades or any Number of Ace’s of Spades, which shall have been delivered to and charged on the Account of any licensed Maker of playing Cards, shall be damaged, defaced, or spoiled in making the same, so as to be rendered unfit for Use, then, on Oath made thereof by such Maker before any One of the said Commissioners of Stamps, or before their proper Officer, and which Oath such Commissioner or Officer is hereby empowered to administer, and upon the Delivery up to such Commissioner or Officer of every such Ace of Spades so damaged, defaced, or spoiled, such Maker shall be allowed Credit in his Accounts for every such Ace so damaged, defaced, or spoiled, and delivered up as aforesaid.</p>
+<p>XXIV. And be it further enacted. That no playing Cards shall be sold as waste Cards, unless a Corner of every such Card shall be cut off at least Half an Inch in Depth, nor unless the same shall be sold or exposed to Sale in Parcels, without being enclosed in any Wrapper or Paper or other Cover ; …</p>
+</div>
+<p>With the 1828 act, the duty was redudced from 2s6d to 1s. Card makers were now obliged to provide paper to the Stamp Office on which would be printed the Ace of Spades, the only source for this particular card. Popularly referred to as “Old Frizzle”, this Duty Ace had and intricate design, inspired by the complex “anti-fraud” design applied to bank notes.</p>
+<p>Four years later, in 1832, the various crimes of forgery to which the capital sentence applied were combined into a single act.</p>
+<div class="dropdown admonition">
+<p class="admonition-title"><em>All such Forgeries as shall henceforth be punished with Death</em>, July, 1832</p>
+<p><a class="reference external" href="https://archive.org/details/np212725_0012/page/212/mode/2up">https://archive.org/details/np212725_0012/page/212/mode/2up</a>
+STATUTES of the United Kingdom of Great Britain and Ireland
+1832</p>
+<p>CAP. LXVL</p>
+<p>An Act for reducing into One Act all such Forgeries as shall henceforth be punished with Death, and for otherwise amending the Laws relative to Forgery. 23d July 1830.</p>
+<p>Sidenote: <em>No forgeries or other kindred Offences, which are now capital, shall continue so, unless expressly made capital, by this Act.</em></p>
+<p>Be it therefore enacted … That where by any Acts now in force any Person falsely making, forging, counterfeiting, erasing, or altering any Matter whatsoever, or uttering, publishing, offering, disposing of, putting away, or making use of any Matter whatsoever, knowing the same to be falsely made, forged, counterfeited, erased, or altered, or any Person demanding or endeavouring to receive or have any Thing, or to do or cause to be done any Act, upon or by virtue of any Matter whatsoever, knowing such Matter to be falsely made, forged, counterfeited, erased, or altered, would, according to the Provisions contained in any of the said Acts, be guilty of Felony, and liable to suffer Death as a Felon ; …; or where by any Acts now in force any Person making or using, or knowingly having in his Custody or Possession, any Frame, Mould, or Instrument for the making of Paper, with certain Words visible in the Substance thereof, or any Person making such Paper, or causing certain Words to appear visible in the Substance of any Paper, would, according to the Provisions contained in any of the said Acts, be guilty of Felony, and liable to suffer Death as a Felon ; then, and in each of the several Cases aforesaid, if any Person shall, after the Commencement of this Act, be convicted of any such Felony as is herein-before mentioned, or of aiding, abetting, counselling, or procuring the Commission thereof, such Person shall not suffer Death for the same, unless the same shall be made punishable with Death by this Act ; and if the same shall not be made punishable with Death by this Act, in such Case every Person who shall, after the Commencement of this Act, be convicted of any such Felony, or of aiding, abetting, counselling, or procuring the Commission thereof, shall be liable, at the Discretion of the Court, to be transported beyond the Seas for Life or for any term not less than Seven Years, or to be imprisoned for any Term not exceeding Four Years nor less than Two Years: Provided always, that nothing herein contained shall affect or alter any Acts relating to the Coin of this Realm, or to any Coin of any other Realm lawfully current within this Realm.</p>
+</div>
+<p>Three weeks later, the <em>Abolition of Punishment of Death Act</em>, 1832, abolished the death penalty for cases of counterfeiting, and forgery, except for the forgery of wills and particular powers of attorney, and replaced the sentence with one of transportation for life.</p>
+<div class="dropdown admonition">
+<p class="admonition-title"><em>An Act for abolishing the Punishment of Death in certain Cases of Forgery</em>, August, 1832</p>
+<p><a class="reference external" href="https://archive.org/details/np212725_0012/page/1052/mode/2up">https://archive.org/details/np212725_0012/page/1052/mode/2up</a></p>
+<p>p1052-3</p>
+<p>CAP. CXXIII.</p>
+<p>An Act for abolishing the Punishment of Death in certain Cases of Forgery. [16th August 1832.]</p>
+<p>WHEREAS an Act passed in the First Year of His present Majesty’s Reign, intituled An Act for reducing into One Act all such Forgeries as shall hereafter be punished with Death, … And whereas it is expedient to abolish the Punishment of Death for Offences of that Nature, except so far as relates to Wills and certain Powers of Attorney,… any Person shall after the passing of this Act be convicted of any Offence whatsoever for which the said Act enjoins or authorizes the Infliction of the Punishment of Death ,… which Offence shall consist wholly or in part of forging or ultering any Writing, Instrument, Matter, or Thing whatsoever, or of offering, uttering, or disposing of any Writing, Instrument, Matter, or Thing whatsoever, knowing the same to be forged or altered, or of falsely personating another, then and in each or the Cases aforesaid the Person so convicted of any such Offence as aforesaid, or of procuring or aiding or assisting in the Commission thereof, shall not suffer Death, or have Sentence of Death awarded against him, but shall be transported beyond the Seas for the Term of such Offender’s Life.</p>
+</div>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="richard_harding.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">The Case of Richard Harding</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="henry_wheeler.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">The Case of Henry Wheeler</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By The Jupyter Book community
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2022.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=5b4479735964841361fd"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=5b4479735964841361fd"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
