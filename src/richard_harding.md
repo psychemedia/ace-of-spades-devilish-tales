@@ -6,14 +6,14 @@ As yet, I haven't found any announcement of the charges laid, or the investigati
 
 *Note the confusion in reporting the name of accused, given as "Hardy" below when it should be "Harding", perhaps as a result of a verbal (mis)communication.*
 
-```{admonition}
+```{admonition} *A disturbed state of mind*, August, 1805
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002193/18050822/010/0003
 Saint James's Chronicle - Thursday 22 August 1805
 
 Also: [Morning Chronicle - Tuesday 20 August 1805](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000082/18050820/007/0003)
 
-Mrs. Skelton, the wife of the man that turned King's evidence against Hardy for forging the ace of spades lately, has been for some time in a distrbed state of mind. On Thursday the 15th inst. she left her lodgings at Weybridge, about 16 miles from Town. Nothing was heard of her until the next morning, when she was found in a ditch about two miles from where she lodged, with her throat cut, and quite lifeless. Some hay-makers had observed her walking about the fields on Thursday, apparently in great agitation. A Coroner's inquest was held on the Body, and brought in their verdict *Lunacy*.
+Mrs. Skelton, the wife of the man that turned King's evidence against Hardy for forging the ace of spades lately, has been for some time in a disturbed state of mind. On Thursday the 15th inst. she left her lodgings at Weybridge, about 16 miles from Town. Nothing was heard of her until the next morning, when she was found in a ditch about two miles from where she lodged, with her throat cut, and quite lifeless. Some hay-makers had observed her walking about the fields on Thursday, apparently in great agitation. A Coroner's inquest was held on the Body, and brought in their verdict *Lunacy*.
 
 ```
 

@@ -9,3 +9,8 @@ parts:
     - file: reaffirming_the_law
     - file: john_blacklin
     - file: richard_harding
+    - file: old_frizzle
+    - file: henry_wheeler
+- caption: The Devil's Prayer Book
+  chapters:
+  - file: devil_prayer_book

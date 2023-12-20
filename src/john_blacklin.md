@@ -49,7 +49,7 @@ Salisbury and Winchester Journal - Monday 06 May 1805
 Old Bailey. [Yesterday]... J. Harding, a dashing swindler, who has sometimes called himself Lord Hawke, was tried on a capital indictment for stealing gold watch from a shop in Bond-street; but appearing that the shopkeeper's apprentice had entrusted him with the watch, which he said he wished to shew to his brother, his depositing a fictitious bill for double the value, the capital part of the charge was done away, and was found guilty of simple felony.—J. Maydwell and J. Knype were tried for selling cards with a forged stamp of the ace of spades, in connection with Blacklin, capitally convicted on Monday: they declared their defence, that they thought the cards had been of French manufacture, and that they were engaged in a smuggling transaction only : the Jury gave them credit for this assertion, and they were accordingly acquitted.
 ```
 
-```{admontion} ISAAC HARDING. Theft; grand larceny, 24th April, 1805
+```{admonition} ISAAC HARDING. Theft; grand larceny, 24th April, 1805
 :class: seealso dropdown
 
 A quick check of the [Old Bailey Online](https://oldbaileyonline.org) records suggest that *J.* Harding is actually *I.* Harding: *I* for *Isaac*, and is presumably no relation to the *R. Harding* that we shall meet later.

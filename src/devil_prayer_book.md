@@ -16,11 +16,8 @@ Eddie lenihan card story
 Eddie Lenihan performing in a bar
 https://www.youtube.com/watch?v=pMXn7v5wTx0&t=194s
     
-
 ## The Soldier's
 
-
----
 
 https://archive.org/details/EdwardS.TaylorTheHistoryOfPlayingCardsInConjuringFortuneTellingCardSharping1865
 
@@ -97,7 +94,6 @@ One night a few people were coming home from a dance and and in a very old house
 ## Playing cards with the Devil
 
 
----
 https://www.duchas.ie/en/cbes/4562128/4562032/4570892?HighlightText=cards+devil&Route=stories&SearchLanguage=ga
 The Joker and a Pack of Cards
 

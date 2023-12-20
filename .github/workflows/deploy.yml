@@ -25,6 +25,7 @@ jobs:
     # sphinxcontrib-youtube==1.3.0
     - name: Build the book
       run: |
+        cd src
         jupyter-book build .
         touch ./_build/html/.nojekyll
     # Push the book's HTML to github-pages
