@@ -39,7 +39,7 @@ Ipswich Journal - Saturday 04 May 1805
 Monday, at the Old Bailey, John Blacklin, of Queen-street, Cheapside was capitally convicted for vendings cards with a forged stamp (as an Ace of Spades.) The trial lasted 5 hours and a half. Two boys indicted with him were acquitted, having acted under his control. Blacklin is supposed to have gained 8000£ a year by this practice.
 ```
 
-The two boys implicated in the case, Maydwell and Knype, were tried the following day. Another case tried that day, of a certain J. Harding (presumably no relation to a Mr. harding we will meet later), a "dashing swindler", sounds like a classic hustle...
+The two boys implicated in the case, Maydwell and Knype, were tried the following day. Another case tried that day, of a certain J. Harding (presumably no relation to a Mr. Harding we will meet later), a "dashing swindler", sounds like a classic hustle...
 
 ```{admonition} *Simply smuggling?*, May, 1805
 :class: dropdown
