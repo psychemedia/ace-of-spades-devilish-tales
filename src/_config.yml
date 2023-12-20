@@ -1,4 +1,4 @@
-title: The Ace of Spades
+title: The Ace of Spades and Other Devilish Tales
 author: Tony Hirst
 copyright: "2024"
 
@@ -13,5 +13,4 @@ parse:
 sphinx:
   config:
     html_copy_source: false
-  extra_extensions:
-    - sphinxcontrib.youtube
+
