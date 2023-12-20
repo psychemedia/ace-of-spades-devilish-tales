@@ -1186,8 +1186,10 @@ On Saturday, .... The same day, *V. Rumley*, a Calico Glazier, and *——— Ir
 
 But there were also bigger fish to catch. Such as John Harding. And he would not to be as lucky as Blacklin.
 
-```{admonition} *Execution*, November, 1805
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000388/18051119/004/0002
-Chester Courant - Tuesday 19 November 1805
-EXECUTION. John Harding, for forging the stamp upon the Ace of Spades.
+
+```{admonition} *Capitally convicted*, September, 1805
+:class: dropdown
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000052/18050926/003/0002
+Derby Mercury - Thursday 26 September 1805
+Old Bailey. Saturday, Richard Harding, card-maker, for forging the Ace of Spades; ... w[as] capitally convicted.
 ```
