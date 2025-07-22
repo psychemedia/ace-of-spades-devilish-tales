@@ -1,5 +1,6 @@
 # The Case of Henry Wheeler
 
+Thirty years after the cases of Blacklin, and Harding, another prosecution against a printer charged with the forgery of playing cards.
 
 ```{admonition} *Forgeries to a very considerable extent*, December, 1835
 :class: dropdown
@@ -12,7 +13,7 @@ The officer brought the prisoner before Sir F. Roe at the evening sitting, and t
 
 Mr. Sircum, and two other gentlemen, attended from the Stamp Office, for the prosecution. The prisoner was once a licensed manufacturer of cards, but in consequence of some *faux pas* (it is said) the license was withdrawn, and he has since been extensively engaged in manufacturing cards with forged stamps.
 
-A respectably dressed man, about the middle age, named John Liomas, was next put to the bar by Ballard under the following circumstances :—
+A respectably dressed man, about the middle age, named John Liomas, was next put to the bar by Ballard under the following circumstances:—
 
 Ballard, it appeared, had a search warrant against the prisoner on suspicion of being concerned in the transactions with which Wheeler, the former prisoner, stands accused, and in consequence of information which he obtained he went to a house in Grove-street, Hollowa y-road, where he discovered that the prisoner carried on an illicit still.
 
@@ -35,7 +36,7 @@ Mr. Sircum, and two other gentlemen, attended from the Stamp-office for the pros
 
 The prisoner was once a licensed manufacturer of cards, but in consequence of some *faux pas*, it is said, the licence was withdrawn, and be has since been extensively engaged in nufacturing cards with forged stamps.
 
-A respectably-dressed man, about the middle age, named John Lomas, was next put to the bar by Ballard, under the following curious circumstances :—
+A respectably-dressed man, about the middle age, named John Lomas, was next put to the bar by Ballard, under the following curious circumstances:—
 
 Ballard, it appeared, had a search-warrant against the prisoner, on suspicion of being coacerned in the transactions with which Wheeler (the former prisoner) stands accused, and in consequence of information which he obtained he went close to a house in Grove-street, Holloway-road, but wishing to watch to see the prisoner before he proceeded to search, he waited some time, and saw the prisoner come out. He followed him some distance, and observed that he had something of flat square shape in a bag under his arm. He at length stopped him, and took him into a public-house, and asked him his name, which he said was John Chapman. Ballard asked him where he lived, and he said, "Before 1 answer that question want to know who and what you are.” Ballard said he would satisfy him upon that subject, but he must first have his address. The prisoner then wrote upon a piece of paper "John Chapman, No. 20, High-street, Highgate." Ballard asked him if he came direct from that place, and he said he had. He then told him it was not so, and he must take him back to the place he had come from. He refused to go, but the officer told him he must, upon which he said, "if you are determined to take me back to the house I am a ruined man," adding, that what the officer was in search of was in the back kitchen, and he would shew it to him himself, but he begged he would not frighten his wife, for she was not well, and would be greatly alarmed. He stated also, that he was "driven to it by distress." The officer all this time, no doubt, was quite satisfied that he had hit the mark, and that the matter referred to by the prisoner, was that which was mentioned in his warrant. When, however, he was conducted to the back kitchen of No. 2, Grove-street, he found two tubs containing twelve gallons of wash, apparently ready for use, two casks of spirits, and three or four bottles of spirits; altogether about twelve gallons, together with a worm, and all the usual apparatus of an illicit still. Ballard searched the house by virtue of his warrant, for other things, but found nothing to implicate the prisoner in the stamp forgeries. He, however, brought him away upon the new and unexpected charge of keeping an illicit still.
 
@@ -61,11 +62,21 @@ A respectable-looking man, named John Lomas, was then placed at the bar, charged
 
 Ballard, it appeared, had alao been engaged in endeavouring to discover the parties who were guilty of forging the stamp on cards, and having received information that the prisoner Lomas was one of the suspected persons, he obtained a search-warrant to examine his lodgings, when, singularly enough, although he failed in connecting the prisoner with the Stamp office forgeries, he detected him in carrying on a no less profitable fraud on the revenue by means of a private still.
 
-It appeared from his statement to the Magistrate that he went with a search-warrant to the residence at No. 2, Grove-street, Holloway. road. He watched the house until he saw the prisoner leave it, and having followed him some distance, he took him to a public house and demanded his name. The prisoner said his name was John Chapman, and that he lived at No. 20, High-street, Highgate, Ballard then asked him if he had come direct from Highgate. The prisoner answered " Yes." Ballard then told him that he knew to the contrary, and said "You must go with me to the house you have come from, adding that he was an officer from Bow-street. The prisoner then said, " If you are determined to take me I am a ruined man; I know what you have come about; I will show you the house, and you will find what you want in the back kitchen." The officer supposing that the confession of the prisoner related to the Stamp-office forgeries, accompanied the prisoner back to the house from which he had traced him, in the back kitchen of which the prisoner pointed to the private still, " There it is, but for GOD'S sake don't alarm my wife and children." The officer was, of course, somewhat surprised at this discovery, and sent for an Excise officer, who took charge of the still and about 10 gallons of spirits ready for use, together with a quantity of wash, molasses, &c. Ballard then searched the house, but found nothing to connect the prisoner with the other charge, and he conveyed him to this office on the charge of working the still.
+It appeared from his statement to the Magistrate that he went with a search-warrant to the residence at No. 2, Grove-street, Holloway. road. He watched the house until he saw the prisoner leave it, and having followed him some distance, he took him to a public house and demanded his name. The prisoner said his name was John Chapman, and that he lived at No. 20, High-street, Highgate, Ballard then asked him if he had come direct from Highgate. The prisoner answered "Yes." Ballard then told him that he knew to the contrary, and said "You must go with me to the house you have come from, adding that he was an officer from Bow-street. The prisoner then said, "If you are determined to take me I am a ruined man; I know what you have come about; I will show you the house, and you will find what you want in the back kitchen." The officer supposing that the confession of the prisoner related to the Stamp-office forgeries, accompanied the prisoner back to the house from which he had traced him, in the back kitchen of which the prisoner pointed to the private still, "There it is, but for GOD'S sake don't alarm my wife and children." The officer was, of course, somewhat surprised at this discovery, and sent for an Excise officer, who took charge of the still and about 10 gallons of spirits ready for use, together with a quantity of wash, molasses, &c. Ballard then searched the house, but found nothing to connect the prisoner with the other charge, and he conveyed him to this office on the charge of working the still.
 
 The prisoner implored the Magistrate to mitigate the penalty which he was aware was attached to the offence he had committed.
 
 Sir F. ROE said that the Act of Parliament gave him no power to reduce the fine, which was fixed at 3l., and the prisoner being unable to pay that sum, was committed to hard labour for three months in the House of Correction.
+```
+
+In a parallel case, a certain Mr. John Lomas was acquitted of stamp forgery but found guilty on another charge against the revenue.
+
+```{admonition} Another species of fraud on the revenue, December 1835
+:class: dropdown
+Weekly Dispatch (London) - Sunday 20 December 1835
+
+CHARGE OF FORGING THE STAMPS ON PLAYING CARDS.— On Thursday a man in the garb of a mechanic, named *Henry Wheeler*, was charged with forging the Government-stamp used on playing-cards. Ellis, the officer, stated that in consequence of information he went to the house No 122, St. John-street, Smithfield, and there found the prisoner, who occupied the attic. Witness proceeded to search a loft above the attic, and he there found the plate which he now produced, and which was made in imitation of the duty-stamp placed on the ace of spades. Upon searching further, he also found thirty-eight pieces of paper, each bearing the usual impression placed on playtog-cards to protect the duty. The prisoner had nothing to say in his defence, and the Magistrate directed that he should be remanded for a week. It appaears that forgeries of a most extensive description have for some time been carried on in this department of the revenue, and the loss sustained became so serious that the Commissioners of Stamps determined, if possible, to bring to justice the guilty parties. Application was accordingly made to the Magistrates of this office for the assistance of some able officers, and Ellis, Ballard, and Keys were directed to use their best exertions to endeavour to trace out the offenders. The prisoner, it appeared, was formerly a licensed card-maker; but for some reason he was deprived of his license, since which time he has carried on the system of forging stamps for cards to a considerable extent. A man of respectable appearance, named *John Lomas*, was then placed at the bar by Ballard, the officer, who it appeared apprehended him on suspicion of being concerned in a similar fraud to that with which the other prisoner is charged; but it turned out, curiously enough, that although there was no evidence to connect him with the stamp forgeries, he was engaged in another species of fraud on the revenue, namely, that of working a private still, of which offence he was now convicted, and sentenced to pay a fine of 30*l.*, or, in default, to suffer three months' imprisonment.
+
 ```
 
 ```{admonition} *Feloniously, and knowlingly, and without lawful excuse*, January, 1836
@@ -75,13 +86,13 @@ Morning Post - Thursday 07 January 1836
 
 CENTRAL CRIMINAL COURT.— Jan. 6. OLD COURT.
 
-*Henry Wheeler*, aged 37, was indicted for feloniously and knowingly, and without lawful excuse, having in his possession 500 impressions of a forged die, intended to resemble the die of the ace of spades, used by the Commissioners of tbe Stamps and Taxes.
+*Henry Wheeler*, aged 37, was indicted for feloniously and knowingly, and without lawful excuse, having in his possession 500 impressions of a forged die, intended to resemble the die of the ace of spades, used by the Commissioners of the Stamps and Taxes.
 
 The Attorney-General and Mr. Phillips appeared for the prosecution.
 
 Mr. Clarkson was Counsel for the prisoner.
 
-James Ellis, an officer on the Bow-street establishment, stated that on the 15th December he went with a search-warrant, accompanied by an officer of the Stamp Office, to 122, St. John-street. On the door was an engraved plate, bearing the words, " Henry Wheeler, card-manufacturer." He went down to a lower kitchen, where he found the prisoner, who acknowledged himself to be the master of the house. He asked witness to read his warrant, which was done ; when he said some one must have given the information out of spite. Witness and Stowell, accompanied by the prisoner, went to the attic, and there found a large quantity of impressions of playing-cards. He then went to the front of the attic, and there found, in an aperture in the ceiling, one dozen packs of cards, and a bag containing thirty-four sheets of the impressions of the ace of spades, each sheet containing ten impressions. He had also discovered materials for making the cards, and a great quantity of cards in the process of manufacture. In all he found 180 packs of cards, wanting only the ace of spades. He seized all these things, and took the prisoner into custody.
+James Ellis, an officer on the Bow-street establishment, stated that on the 15th December he went with a search-warrant, accompanied by an officer of the Stamp Office, to 122, St. John-street. On the door was an engraved plate, bearing the words, "Henry Wheeler, card-manufacturer." He went down to a lower kitchen, where he found the prisoner, who acknowledged himself to be the master of the house. He asked witness to read his warrant, which was done ; when he said some one must have given the information out of spite. Witness and Stowell, accompanied by the prisoner, went to the attic, and there found a large quantity of impressions of playing-cards. He then went to the front of the attic, and there found, in an aperture in the ceiling, one dozen packs of cards, and a bag containing thirty-four sheets of the impressions of the ace of spades, each sheet containing ten impressions. He had also discovered materials for making the cards, and a great quantity of cards in the process of manufacture. In all he found 180 packs of cards, wanting only the ace of spades. He seized all these things, and took the prisoner into custody.
 
 This was the case for the prosecution.
 
@@ -127,6 +138,56 @@ Several witnesses gave the prisoner good character.
 The Learned Judge summed up, and the Jury returned a verdict of *Guilty*.
 ```
 
+```{admonition} A ream of paper, purchased as waste, January 1836
+:class: dropdown
+Morning Herald (London) - Thursday 07 January 1836
+
+CENTRAL CRIMINAL COURT—WEDNESDAY. - The Court was opened this morning before Mr Baron GURNEY and Mr. Justice ALDERSON.
+
+...
+
+FORGING PLAYING CARD STAMPS.— *Henry Wheeler*, aged 37, was indicted for feloniously and knowingly, without lawful excuse, having in his possession 450 impressions of a forged die, intended to resemble the die of the ace of spades used by the Commissioners of Stamps and Taxes.
+
+The ATTORNEY-GENERAL and Mr. PHILLIPS conducted the case for the prosecution.
+
+Sir JOHN CAMPBELL stated the Case to the Jury.
+
+James Ellis—I am a Bow-street officer. On Thursday, the 15th December, I went to the house No. 122, St. John-street, with a search-warrant, and accompanied by Stowell, the Inspecting Officer of Stamps, and Mace, a Marlborough-street officer. On the door was an engraved plate, bearing the words "H. Wheeler, card-manufacturer." Entering the shop I went down into the cellar kitchen, where I found the prisoner. He said he was the master of the house, and I then told him I had got a warrant to search for forged aces of spades. At his request I read the warrant, and he said some person had given information out of spite. I went up stairs, and returned and desired him to accompany me in searching the house. Stowell and I then went to the attic, together with the prisoner, and in the loft I found a great quantity of playing cards. I went afterwards to the front part of the attic, where I found an aperture in the ceiling, through which I got and found a dozen packs of cards and a bag, containing 34 sheets of the impressions of the aces of spades as they were previous to the year 1828, each containing 10 impressions. I also found a great quantity of other Packs of cards and 99 other aces of spades. On making further search I discovered materials for making cards, and a great quantity of cards in the process of manufacture. I found 180 packs, in all, wanting the ace of spades. I then took the prisoner into custody.
+
+John Stowell, in a clear detail of evidence, fully corroborated the last witness.
+
+Richard Godwin Mace also deposed to the same circumstances.
+
+Joseph Harris examined by the ATTORNEY-GENERAL.— I am Deputy Supervisor of Stamps, at the Somerset House office. The aces of spades produced by Ellis are forgeries. It is the custom of card-makers to send paper to the Stamp Office to be stamped, and dies are provided for the purpose by the Commissioners. The cards are usually made with the name of the card-maker engraved thereon. Mr. Thomas Creswick has a plate of the description pointed out. His name is on the forged spade aces found in the prisoner's possession.
+
+Cross-examined by Mr. CLARKSON— The forged aces are very badly executed. They vary materially from the original. I do not know whether Thomas Wheeler was a licensed card-maker after the year 1828, in which year the new die was provided.
+
+Mr. Charles Pressly, Secretary to the Board of Stamps at Somerset House. The impressions produced are not taken from Mr. Creswick's plate, which is kept at the Stamp Office, and are therefore forgeries.
+
+Cross-examined— I do not recollect any of the old stamps having been sold.
+
+Edward Gregory proved that the house occupied by the prisoner was not in the city of London, the city of Westminster, or the borough of Southwark, in which places only licensed card-makers can reside, according to the provisions of the Statute 9 Geo. IV. c. 18, s. 7.
+
+The above was the case for the prosecution.
+
+The prisoner declined making any defence.
+
+Charles Brush, 28, Old Change, grocer and oilman, examined by Mr. CLARKSON.—He deposed to purchasing a ream of paper from the Stamp Office, bearing the stamp of the ace of spades, as it was before the year 1828. He bought it as waste paper. Several witnesses gave the prisoner a good character for honesty and fair dealing. Baron GURNEY summed up, and the Jury pronounced a verdict of *Guilty*.
+
+```
+
+*In Bell's Weekly Messenger of [Sunday 10 January 1836](https://britishnewspaperarchive.co.uk/viewer/bl/0001286/18360110/021/0006), the witness from 28, Old Change is named as `Charles Brine`.*
+
+```{admonition} Forging the stamps on playing cards, January 1836
+:class: dropdown
+https://britishnewspaperarchive.co.uk/viewer/bl/0002258/18360110/033/0007
+The News (London) - Sunday 10 January 1836
+
+CENTRAL CRIMINAL COURT. On Monday these sessions commenced in their usual form. ...
+
+FORGING THE STAMPS ON PLAYING CARDS. —Henry Wheeler, aged 37, was indicted on Wednesday for feloniously and knowingly, without lawful excuse, having in his possession 450 impressions of a forged die, intended to resemble the die of the ace of spades used by the Commissioners of Stamps and Taxes.—The Attorney-General stated the circumstances of the case to the jury.— James Ellis: I am a Bow-street officer; on Tuesday, the 15th of December I went to the house No. 122, St. John-street, with a search-warrant, accompanied by Stowell, the officer of stamps, and Mace , a Marlborough-street officer; on the door was an engraved plate bearing the words "H. Wheeler, card-manufacturer;" I entered the shop, and went down into a cellar kitchen, where I found the prisoner; he said he was master of the house, and I then told him I had a warrant to search for forged aces of spades; at his request I read the warrant, and he said some person had given information out of spite; I went upstairs, but returned, and desired him to accompany me in searching the house; Stowell and I then went together with the prisoner to the attic, where I found an apartment in the ceiling, through which I climbed, and I there found about a dozen packs of cards, and a bag containing thirty-four sheets of the the *(sic)* impressions of the aces of spades, as they were previous to the year 1828, when the duty was altered; I also found a great quanity *(sic)* of other packs of cards, and ninety-nine other aces of spades; on making further searches I discovered materials for making cards, and a great quantity of cards in the process of manufacture; I then took the prisoner into custody.— Joseph Harris: I am deputy supervisor of stamps in Somerset-house; the aces of spades produced by the witness Ellis are forged; it is the custom of the card makers to send paper to the Stamp-office to be stamped, and dies are provided for the purpose by the Commissioners; the stamps are usually provided with the name of the card-maker engraved thereon; Mr. Thomas Creswick has a plate of the description pointed out (Mr. Creswick's name appeared on all the forged spade aces found in the prisoner's possession.)— Several witnesses gave the prisoner a good character.——the jury found him guilty.
+```
+
 Despite no longer being a capital offence, the penalty for forging the Ace of Spades was still severe however, as Henry Wheller found to his cost in 1836, when he was transported for life for committing such an offence.
 
 ```{admonition} *Transported for life*, January, 1836
@@ -148,15 +209,15 @@ HENRY WHEELER. Deception; forgery. 4th January 1836.
 
 MR. ATTORNEY GENERAL with MR. PHILLIPS conducted the Prosecution.
 
-JAMES ELLIS . I am an officer of the police. On Tuesday, the 15th of December, I went to No. 122, St. John-street, with a warrant—Stowell accompanied me, (he belongs to the Stamp Office,) and Mace, a police-officer—there is a private door to the house, with a brass-plate on the door, on which was engraved, "H. Wheeler, Card-manufacturer"—there is a shop door, with "H. Wheeler, Card-manufacturer and Printer" on each side—I went in with my companions, at the shop door—I asked for Mr. Wheeler—I went down stairs into a cellar-kitchen, and there saw the prisoner—I asked him who he was—he said his name was Wheeler—I asked if he was master of the house—he said, "Yes"—I told him I had got a warrant to search his house for a forged ace of spades—I do not exactly recollect what he said, but he requested I would let him look at the warrant—I read it over to him, with the exception of the name of the informat—he made no particular observation at that time, and I went up stairs—he afterwards said some person had done it (laid the information) out of spite, or something to that effect—I left him and his wife, two sons and daughter, in charge of Mace, and went up stairs with Stowell—we just took a cursory view of the different rooms, and I returned back and found the prisoner in the cellar—I had left him in the kitchen—I told him I must go and search the house, having searched the shop in his presence—I told him I would go up to the top of the house to begin—he said, "You had better begin at the bottom," or something to that effect; but we went to the top—I went first into the attic, which was partly divided into two, but part of the partition was down—in the back part of the attic, I went through a trap-door into the roof part, and there found a quantity of playing-cards, some loose, and some in packages—unfortunately, after taking the prisoner away, all the cards I found got mixed—I handed the cards I found there down to Stowell—the prisoner was present—I then went into the front part of the attic, and found a hole in the ceiling, through which I got into the roof of that part, there being no other way to do so—I there found a quantity of cards—there might be ten or twelve packs—I also found this bag—it is in the same state as I found it—I gave the second parcel of cards to Stowell, and dropped the bag down to him also—I examined it (opens it)—I found in it these papers—I believe they are all the same—there are thirty-four sheets with ten impressions of the ace of spades on each sheet—being three hundred and forty impressions—I also found in the bag thirty-eight impressions loose—I tied them up together, and am sure these are the same—they are in a state to put on cards—some of them are pasted on cards—I then sent for a coach, and took the prisoner into custody—I searched the house afterwards, and found a great quantity of cards, and materials for making cards—there were a great many more packs of cards in the bag, consisting of fifty-one cards each—those wanted the ace of spades—they were loose in the bag—I also found this parcel, which contains ninety-nine aces of spades, some on cards, and some on papers—here are thirty-seven aces of spades without the stamp—they were in the bag—I also found some blank cards, some old spade aces, some stamped, and some not—these were in the bag—I found a great quantity of papers and cards in various parts of the house—in nearly every room—here are the materials for making them, which I found—here is a block for printing, with the knaves and kings and queens, and other materials for card printing—here are some cards in the process of manufacturer, not finished—altogether there are one hundred and eighty packs wanting the ace of spades.
+JAMES ELLIS. I am an officer of the police. On Tuesday, the 15th of December, I went to No. 122, St. John-street, with a warrant—Stowell accompanied me, (he belongs to the Stamp Office,) and Mace, a police-officer—there is a private door to the house, with a brass-plate on the door, on which was engraved, "H. Wheeler, Card-manufacturer"—there is a shop door, with "H. Wheeler, Card-manufacturer and Printer" on each side—I went in with my companions, at the shop door—I asked for Mr. Wheeler—I went down stairs into a cellar-kitchen, and there saw the prisoner—I asked him who he was—he said his name was Wheeler—I asked if he was master of the house—he said, "Yes"—I told him I had got a warrant to search his house for a forged ace of spades—I do not exactly recollect what he said, but he requested I would let him look at the warrant—I read it over to him, with the exception of the name of the informat—he made no particular observation at that time, and I went up stairs—he afterwards said some person had done it (laid the information) out of spite, or something to that effect—I left him and his wife, two sons and daughter, in charge of Mace, and went up stairs with Stowell—we just took a cursory view of the different rooms, and I returned back and found the prisoner in the cellar—I had left him in the kitchen—I told him I must go and search the house, having searched the shop in his presence—I told him I would go up to the top of the house to begin—he said, "You had better begin at the bottom," or something to that effect; but we went to the top—I went first into the attic, which was partly divided into two, but part of the partition was down—in the back part of the attic, I went through a trap-door into the roof part, and there found a quantity of playing-cards, some loose, and some in packages—unfortunately, after taking the prisoner away, all the cards I found got mixed—I handed the cards I found there down to Stowell—the prisoner was present—I then went into the front part of the attic, and found a hole in the ceiling, through which I got into the roof of that part, there being no other way to do so—I there found a quantity of cards—there might be ten or twelve packs—I also found this bag—it is in the same state as I found it—I gave the second parcel of cards to Stowell, and dropped the bag down to him also—I examined it (opens it)—I found in it these papers—I believe they are all the same—there are thirty-four sheets with ten impressions of the ace of spades on each sheet—being three hundred and forty impressions—I also found in the bag thirty-eight impressions loose—I tied them up together, and am sure these are the same—they are in a state to put on cards—some of them are pasted on cards—I then sent for a coach, and took the prisoner into custody—I searched the house afterwards, and found a great quantity of cards, and materials for making cards—there were a great many more packs of cards in the bag, consisting of fifty-one cards each—those wanted the ace of spades—they were loose in the bag—I also found this parcel, which contains ninety-nine aces of spades, some on cards, and some on papers—here are thirty-seven aces of spades without the stamp—they were in the bag—I also found some blank cards, some old spade aces, some stamped, and some not—these were in the bag—I found a great quantity of papers and cards in various parts of the house—in nearly every room—here are the materials for making them, which I found—here is a block for printing, with the knaves and kings and queens, and other materials for card printing—here are some cards in the process of manufacturer, not finished—altogether there are one hundred and eighty packs wanting the ace of spades.
 
-JOHN STOWELL . I am an officer of the Stamp Duties. I accompanied Ellis to search the prisoner's house on Tuesday, the 15th of December—I went up stairs with him and Ellis—I heard Ellis read the warrant to him before we went up stairs—Ellis searched the loft, and handed down ten or twelve packs of cards to me, some in papers, and some loose—he then went to the front part of the attic, got up a broken place between the plaster, and handed me down more cards, and a bag—I opened it, and found some cards, which I have marked—the bag contained the things now produced—the other cards, which Ellis has produced, were found in the house.
+JOHN STOWELL. I am an officer of the Stamp Duties. I accompanied Ellis to search the prisoner's house on Tuesday, the 15th of December—I went up stairs with him and Ellis—I heard Ellis read the warrant to him before we went up stairs—Ellis searched the loft, and handed down ten or twelve packs of cards to me, some in papers, and some loose—he then went to the front part of the attic, got up a broken place between the plaster, and handed me down more cards, and a bag—I opened it, and found some cards, which I have marked—the bag contained the things now produced—the other cards, which Ellis has produced, were found in the house.
 
-RICHARD GODWIN MACE . I have heard the two witnesses evidence—they have stated correctly what took place in my presence—I found a plate.
+RICHARD GODWIN MACE. I have heard the two witnesses evidence—they have stated correctly what took place in my presence—I found a plate.
 
 JOHN ELLIS re-examined. I marked the date on which I went on the back of this card—it was on the 15th—Mr. Harris has seen the aces of spades found in the bag.
 
-JOSEPH HARRIS . I am deputy-supervisor of stamps in the stamp department at Somerset House. (Looking at the thirty-eight impressions of the ace of spades) these are forged—the circle round the garter is very different; the genuine one being engine-turned—it is the custom of card manufacturers to send paper to the Stamp Officer for the ace of spades to be stamped—the Commissioners provide a stamp for that purpose—they send plain paper to us in reams—the Commissioners sometimes provide a stamp with the manufacturer's name on it, at his request—there was such a plate provided for a manufacturer named Thomas Creswick—there is a book kept at the Stamp Office with impressions of the plates which are prepared—I have it here—it has impressions of the plates prepared for Creswick—the date is on the impression; "14th of June, 1828"—these aces of spades appear to be a forgery of that plate—the other aces found in the bag are all forgeries of other plates, of other manufacturers.
+JOSEPH HARRIS. I am deputy-supervisor of stamps in the stamp department at Somerset House. (Looking at the thirty-eight impressions of the ace of spades) these are forged—the circle round the garter is very different; the genuine one being engine-turned—it is the custom of card manufacturers to send paper to the Stamp Officer for the ace of spades to be stamped—the Commissioners provide a stamp for that purpose—they send plain paper to us in reams—the Commissioners sometimes provide a stamp with the manufacturer's name on it, at his request—there was such a plate provided for a manufacturer named Thomas Creswick—there is a book kept at the Stamp Office with impressions of the plates which are prepared—I have it here—it has impressions of the plates prepared for Creswick—the date is on the impression; "14th of June, 1828"—these aces of spades appear to be a forgery of that plate—the other aces found in the bag are all forgeries of other plates, of other manufacturers.
 
 Cross-examined by MR. CLARKSON. Q. In 1828, what was the duty payable on playing-cards? A. Up to 1828, it was 1s. 6d. on the ace of spades, 6d. on the wrapper, and 6d. on the label.
 
@@ -168,7 +229,7 @@ Legue is the keeper—I am not quite certain whether he was so before 1828—I d
 
 MR. ATTORNEY-GENERAL. Q. Was a new die for the aces provided in 1828, after the passing of the Act of Parliment? A. there was—if varied considerably from the old die—this plate for Creswick was according to the new die—those bearing the name of T. Wheeler I have compared with the specimen-book—I did not compare those two which the prisoner; counsel showed me.
 
-CHARLES PRESSWICK . I am secretary to the Board of Stamps at Somerset House. On the delivery of the new plate of the ace of spades, engraved for the Board, I take it to the stamping room, and take an impression of it in a book for that purpose—here is the book—in June, 1828, the ace of spades impression was changed—I saw the new impression made in the book, and this is the impression taken at the time—this is an impression from the genuine plate—I apprehend this plate has been used for Creswick since 1828—these thirty-eight impressions are forged.
+CHARLES PRESSWICK. I am secretary to the Board of Stamps at Somerset House. On the delivery of the new plate of the ace of spades, engraved for the Board, I take it to the stamping room, and take an impression of it in a book for that purpose—here is the book—in June, 1828, the ace of spades impression was changed—I saw the new impression made in the book, and this is the impression taken at the time—this is an impression from the genuine plate—I apprehend this plate has been used for Creswick since 1828—these thirty-eight impressions are forged.
 
 Cross-examined. Q. What sort of forgeries should you call them? A. They are imitation of the plate, no doubt—they resemble it in some measure—they vary considerably on being compared—any card-maker would perceive the variation.
 
@@ -184,7 +245,7 @@ MR. CLARKSON. Q. Can you recollect whether a person named Russell did not buy so
 
 COURT. Q. You have a stamp denoting the duty, and if a manufacturer takes a certain quantity of stamps, and wishes his name impressed on them, in addition to the ordinary stamp, you impress his name?. A. Plates are provided for every card-maker, with the name—it is the same impression, except the name.
 
-EDMUND GREGORY . I am landlord of the house, No. 122, St. John-street, Smithfield—it is in the country of Middlesex—it is not in London, middle of the year 1833—he has occupied it as my tenant ever since—I do not know who was in possession of it before, as it was empty at the time I came into possession of it—the lease was surrendered to me.
+EDMUND GREGORY. I am landlord of the house, No. 122, St. John-street, Smithfield—it is in the country of Middlesex—it is not in London, middle of the year 1833—he has occupied it as my tenant ever since—I do not know who was in possession of it before, as it was empty at the time I came into possession of it—the lease was surrendered to me.
 
 Cross-examined. Q. Did you ever see Martin Morillia there? A. I
 
@@ -192,7 +253,7 @@ never heard the name—I do not know Thomas Wheeler—I have only seen the priso
 
 Prisoner's Defence. I am not guilty.
 
-CHARLES BOURNE BRIND . I am a grocer and oilman, and live at No. 28, Old change. I have lately dealt considerably in waste-paper—I had a quantity from Somerset House last July and August, and among it was a ream of foolscap paper, with the stamp of the ace of spades on it—I have not got any of it with me—I believe it was sold with other paper.
+CHARLES BOURNE BRIND. I am a grocer and oilman, and live at No. 28, Old change. I have lately dealt considerably in waste-paper—I had a quantity from Somerset House last July and August, and among it was a ream of foolscap paper, with the stamp of the ace of spades on it—I have not got any of it with me—I believe it was sold with other paper.
 
 COURT. Q. Do you recollect what duty was marked on them? A. No: I did not take notice.
 
@@ -204,29 +265,31 @@ MR. ATTORNEY-GENERAL. Q. Look at this, should you take that for a stamp of the a
 
 Alfred Knight, a stationer, if Basing-lane; and Thomas Wilson, a stationer, of Cheapside, gave the prisoner a good character.
 
-GUILTY . Aged 37.— Transported for Life.
+GUILTY. Aged 37.— Transported for Life.
 
 ```
 
-But that appears not quite to have been the final word... In , a plaintive cry appears in  TO DO
-though I see no reference to it in the police report in the ?? edition of the ???, which I assume is the report referred to?
+But that appears not quite to have been the final word... Three months after the sentence was passed, a plaintive cry from Henry Wheeler's wife claiming that the Aces of Spades found on the premises had been left there by someone else.
 
 ```{admonition} *Please correct an error*, March 1836
 :class: dropdown
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001427/18360329/029/0003
 Morning Advertiser - Tuesday 29 March 1836
 
-To the Editor of the Morning Advertiser. Sir,— I most earnestly entreat you to correct an error that whs made the police report some weeks back in the case of Mr. Henry Wheeler. It stated that dye or was found on his premises. I beg most solemnly to declare that he never was in possession of any such thing, and that the aces of spades found his house, were left by an individual of the name of ______. With respect to a press being taken, I beg to state it was a pasting-press, for which a licence of 4l. a year waa paid. Sir, I am ready to prove the above upon oath, therefore I trust, for the sake of an unhappy and persecuted family, you will insert this. I am, Sir, your obedient servant, MARY WHEELER.
+To the Editor of the Morning Advertiser. Sir,— I most earnestly entreat you to correct an error that whs made the police report some weeks back in the case of Mr. Henry Wheeler. It stated that dye or was found on his premises. I beg most solemnly to declare that he never was in possession of any such thing, and that the aces of spades found his house, were left by an individual of the name of ______. With respect to a press being taken, I beg to state it was a pasting-press, for which a licence of 4*l.* a year waa paid. Sir, I am ready to prove the above upon oath, therefore I trust, for the sake of an unhappy and persecuted family, you will insert this. I am, Sir, your obedient servant, MARY WHEELER.
 Witness, Henry Wheeler, Jun. No. 122, St. John-street, West Smithfield.
 
 ```
 
 Wheeler's wife also made a formal petition to the Home Office regarding her husband's conviction and managed to secure a pardon in 1840.
 
+```{admonition} Petition and grounds for clemency, August 1840
+:class: dropdown
 https://discovery.nationalarchives.gov.uk/details/r/C14222948
 HO 17/18/26
 
-Description:	
+Description:  
+
 Prisoner name(s): Henry Wheeler.
 
 Prisoner age: 37.
@@ -256,3 +319,4 @@ Other papers: Report from Commissioner of Stamps and Taxes recommending a remiss
 Covering letter from Treasury Chambers.
 
 Additional Information: Prisoner in New South Wales.
+```
