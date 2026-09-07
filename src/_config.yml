@@ -1,6 +1,6 @@
 title: The Ace of Spades and Other Devilish Tales
 author: Tony Hirst
-copyright: "2024"
+copyright: "2024-2026"
 
 only_build_toc_files: true
 
@@ -13,4 +13,8 @@ parse:
 sphinx:
   config:
     html_copy_source: false
-
+    html_baseurl: https://ace-of-spades.montystoryteller.org/
+    sitemap_url_scheme: "{link}"
+    sitemap_locales: [null]
+  extra_extensions:
+    - sphinx_sitemap
